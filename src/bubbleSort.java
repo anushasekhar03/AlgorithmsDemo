@@ -1,5 +1,7 @@
 public class bubbleSort {
+
     public static void main(String[] args) {
+
         int[] arr = {7,1,6,8,3,2};
         bubbleSort(arr);
         printArray(arr);
